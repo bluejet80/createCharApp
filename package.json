@@ -1,0 +1,11 @@
+{
+  "name": "createCharApp",
+  "version": "1.0.0",
+  "description": "app to create characters",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jarett young",
+  "license": "ISC"
+}
