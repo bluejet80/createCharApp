@@ -1,5 +1,5 @@
 {
-  "name": "createCharApp",
+  "name": "createcharapp",
   "version": "1.0.0",
   "description": "app to create characters",
   "main": "app.js",
@@ -7,5 +7,10 @@
     "test": "jest"
   },
   "author": "jarett young",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
 }
