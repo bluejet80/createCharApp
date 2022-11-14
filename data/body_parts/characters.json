@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Fred",
+    "body_parts": {
+      "head": "head1.png",
+      "body": "body1.png",
+      "arms": "arms1.png",
+      "legs": "legs1.png"
+    },
+    "personality": "Fred has a good Personality",
+    "backStory": "Fred was born in Tennesee. His father made whiskey from a still. He lived in the woods and developed a fondness for animals. Fred's mother cooked really good meals.",
+    "occupation": "Miner",
+    "family": "Fred has two brothers"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "body_parts": {
+      "head": "head2.png",
+      "body": "body3.png",
+      "arms": "arms2.png",
+      "legs": "legs1.png"
+    },
+    "personality": "John has a bad Personality",
+    "backStory": "John was born in Ohio. His father made socks from sheep. He lived in the city and was pickjed on as a kid. John's mother was overbearing.",
+    "occupation": "Accountant",
+    "family": "John has a sister"
+  },
+  {
+    "id": 3,
+    "name": "Sarah",
+    "body_parts": {
+      "head": "head1.png",
+      "body": "body1.png",
+      "arms": "arms1.png",
+      "legs": "legs1.png"
+    }
+  }
+]
